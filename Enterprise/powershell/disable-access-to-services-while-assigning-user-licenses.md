@@ -23,7 +23,7 @@ description: "Learn how to assign licenses to user accounts and disable specific
 Office 365 subscriptions come with service plans for individual services. Office 365 administrators often need to disable certain plans when assigning licenses to users. With the instructions in this article, you can assign an Office 365 license while disabling specific service plans using PowerShell for an individual user account or multiple user accounts.
 
 
-## Use the Microsoft Azure Active Directory Module for Windows PowerShell
+## Use the MSOnline Module for Windows PowerShell
 
 First, [connect to your Office 365 tenant](connect-to-office-365-powershell.md#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell).
 
